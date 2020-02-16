@@ -1,0 +1,3 @@
+include ':app'
+include ':libtd'
+rootProject.name='My Application'
